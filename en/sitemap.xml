@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://FritzArdael.github.io/tags/anonymity/</loc>
+    <loc>http://localhost:1313/tags/anonymity/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/tags/course-survey/</loc>
+    <loc>http://localhost:1313/tags/course-survey/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/tags/data-science/</loc>
+    <loc>http://localhost:1313/tags/data-science/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/tags/ethics/</loc>
+    <loc>http://localhost:1313/tags/ethics/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/</loc>
-    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://FritzArdael.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://FritzArdael.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://FritzArdael.github.io/fr/"
-                />
-  </url><url>
-    <loc>https://FritzArdael.github.io/tags/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://FritzArdael.github.io/tags/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://FritzArdael.github.io/es/tags/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://FritzArdael.github.io/fr/tags/"
+                href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>https://FritzArdael.github.io/blogs/markdown-syntax/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blogs/markdown-syntax/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://FritzArdael.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://FritzArdael.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://FritzArdael.github.io/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://FritzArdael.github.io/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url>
 </urlset>
