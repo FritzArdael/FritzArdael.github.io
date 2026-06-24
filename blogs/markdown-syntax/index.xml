@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Ethical Problem Hiding in Course Surveys on Fritz Ardael Profile</title>
-		<link>https://fritzardael.github.io/githubfritzardael.github.io/blogs/markdown-syntax/</link>
+		<link>https://FritzArdael.github.io/blogs/markdown-syntax/</link>
 		<description>Recent content in The Ethical Problem Hiding in Course Surveys on Fritz Ardael Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="https://fritzardael.github.io/githubfritzardael.github.io/blogs/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://FritzArdael.github.io/blogs/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

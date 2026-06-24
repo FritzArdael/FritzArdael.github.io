@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Fritz Ardael Profile</title>
-		<link>https://fritzardael.github.io/githubfritzardael.github.io/tags/</link>
+		<link>https://FritzArdael.github.io/tags/</link>
 		<description>Recent content in Tags on Fritz Ardael Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Sat, 20 Jun 2026 23:29:21 +0530</lastBuildDate>
 		
-			<atom:link href="https://fritzardael.github.io/githubfritzardael.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://FritzArdael.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Anonymity</title>
-				<link>https://fritzardael.github.io/githubfritzardael.github.io/tags/anonymity/</link>
+				<link>https://FritzArdael.github.io/tags/anonymity/</link>
 				<pubDate>Sat, 20 Jun 2026 23:29:21 +0530</pubDate>
-				<guid>https://fritzardael.github.io/githubfritzardael.github.io/tags/anonymity/</guid>
+				<guid>https://FritzArdael.github.io/tags/anonymity/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Course Survey</title>
-				<link>https://fritzardael.github.io/githubfritzardael.github.io/tags/course-survey/</link>
+				<link>https://FritzArdael.github.io/tags/course-survey/</link>
 				<pubDate>Sat, 20 Jun 2026 23:29:21 +0530</pubDate>
-				<guid>https://fritzardael.github.io/githubfritzardael.github.io/tags/course-survey/</guid>
+				<guid>https://FritzArdael.github.io/tags/course-survey/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Data Science</title>
-				<link>https://fritzardael.github.io/githubfritzardael.github.io/tags/data-science/</link>
+				<link>https://FritzArdael.github.io/tags/data-science/</link>
 				<pubDate>Sat, 20 Jun 2026 23:29:21 +0530</pubDate>
-				<guid>https://fritzardael.github.io/githubfritzardael.github.io/tags/data-science/</guid>
+				<guid>https://FritzArdael.github.io/tags/data-science/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ethics</title>
-				<link>https://fritzardael.github.io/githubfritzardael.github.io/tags/ethics/</link>
+				<link>https://FritzArdael.github.io/tags/ethics/</link>
 				<pubDate>Sat, 20 Jun 2026 23:29:21 +0530</pubDate>
-				<guid>https://fritzardael.github.io/githubfritzardael.github.io/tags/ethics/</guid>
+				<guid>https://FritzArdael.github.io/tags/ethics/</guid>
 				<description></description>
 			</item>
 	</channel>
