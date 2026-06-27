@@ -26,14 +26,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blogs/course-surveys/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/new-blog/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
@@ -44,17 +45,9 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blogs/markdown-syntax/</loc>
-    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
@@ -64,11 +57,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
