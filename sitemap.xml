@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai-governance/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai-regulation/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/anonymity/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
@@ -20,7 +29,13 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/future-of-ai/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/course-surveys/</loc>
+    <lastmod>2026-06-20T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/society/</loc>
     <lastmod>2026-06-20T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
