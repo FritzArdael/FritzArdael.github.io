@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="624" height="435" viewBox="0 0 624 435">
+  <rect width="624" height="435" fill="transparent"/>
+
+  <!-- Connecting lines -->
+  <g stroke="#222" stroke-width="2" fill="none">
+    <line x1="299" y1="150" x2="299" y2="89"/>
+    <line x1="378" y1="191" x2="448" y2="131"/>
+    <line x1="369" y1="275" x2="406" y2="345"/>
+    <line x1="230" y1="275" x2="191" y2="345"/>
+    <line x1="219" y1="191" x2="174" y2="176"/>
+  </g>
+
+  <!-- Beneficence -->
+  <rect x="230" y="1" width="139" height="87" rx="15" ry="15"
+        fill="#cfe2cd" stroke="#6ca24d" stroke-width="4"/>
+  <text x="299.5" y="48" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111">BENEFICENCE</text>
+
+  <!-- Justice -->
+  <rect x="448" y="87" width="174" height="87" rx="14" ry="14"
+        fill="#d9cce1" stroke="#9a70ad" stroke-width="4"/>
+  <text x="535" y="133" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111">JUSTICE</text>
+
+  <!-- Explicability -->
+  <rect x="357" y="345" width="173" height="87" rx="14" ry="14"
+        fill="#a9dce1" stroke="#1598a4" stroke-width="4"/>
+  <text x="443.5" y="392" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111">EXPLICABILITY</text>
+
+  <!-- Autonomy -->
+  <rect x="104" y="345" width="173" height="87" rx="14" ry="14"
+        fill="#ceddf4" stroke="#5d8bc7" stroke-width="4"/>
+  <text x="190.5" y="392" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111">AUTONOMY</text>
+
+  <!-- Non-maleficence -->
+  <rect x="1" y="116" width="174" height="87" rx="14" ry="14"
+        fill="#fff0c2" stroke="#d7b84f" stroke-width="4"/>
+  <text x="88" y="163" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111">NON - MALEFICENCE</text>
+
+  <!-- Center -->
+  <circle cx="299.5" cy="222" r="81" fill="#cfdef3" stroke="#5c88c4" stroke-width="5"/>
+  <text x="299.5" y="230" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#111">AI ETHICS</text>
+</svg>

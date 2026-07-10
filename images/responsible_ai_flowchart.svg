@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="1625" viewBox="0 0 920 1625">
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+    <path d="M0,0 L10,5 L0,10 Z" fill="#111"/>
+  </marker>
+  <style>
+    .title{font:700 28px Arial,sans-serif;fill:#0b102f}
+    .body{font:22px Arial,sans-serif;fill:#111}
+    .small{font:italic 21px Arial,sans-serif;fill:#111}
+    .label{font:700 23px Arial,sans-serif}
+    .box{stroke-width:2;rx:20}
+  </style>
+</defs>
+
+
+<!-- Step 1 -->
+<rect x="25" y="16" width="700" height="164" rx="20" fill="#eef5ff" stroke="#2c69b5" stroke-width="2"/>
+<g transform="translate(62 53)" fill="none" stroke="#2c69b5" stroke-width="8">
+ <circle cx="40" cy="40" r="36"/><circle cx="40" cy="40" r="23"/><circle cx="40" cy="40" r="10"/>
+ <path d="M40 40 L82 -2 M66 4 L82 -2 L78 15"/>
+</g>
+<text x="263" y="67" class="title">1. DEFINE THE PURPOSE</text>
+<text x="220" y="107" class="body">What problem does this AI system solve?</text>
+<text x="182" y="145" class="body">Who is it for and what are the intended benefits?</text>
+<line x1="382" y1="180" x2="382" y2="220" stroke="#111" stroke-width="4" marker-end="url(#arrow)"/>
+
+<!-- Step 2 -->
+<rect x="25" y="236" width="700" height="206" rx="20" fill="#f1faee" stroke="#389746" stroke-width="2"/>
+<g transform="translate(62 274)" stroke="#389746" stroke-width="7" fill="none">
+ <line x1="42" y1="0" x2="42" y2="78"/><line x1="3" y1="10" x2="81" y2="10"/>
+ <path d="M15 12 L0 55 L30 55 Z M69 12 L54 55 L84 55 Z"/><line x1="20" y1="78" x2="64" y2="78"/>
+</g>
+<text x="212" y="290" class="title">2. IS IT THE RIGHT THING TO DO?</text>
+<text x="195" y="336" class="body">•  Does it respect people’s rights and dignity?</text>
+<text x="195" y="374" class="body">•  Is it fair and inclusive?</text>
+<text x="195" y="412" class="body">•  Could it cause harm, directly or indirectly?</text>
+
+<line x1="382" y1="442" x2="382" y2="484" stroke="#111" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="408" y="483" class="label" fill="#c51f1f">NO</text>
+<text x="278" y="521" class="small">Reconsider the purpose</text>
+<text x="301" y="553" class="small">or do not proceed.</text>
+<line x1="382" y1="560" x2="382" y2="588" stroke="#111" stroke-width="4" marker-end="url(#arrow)"/>
+
+<!-- Step 3 -->
+<rect x="25" y="595" width="695" height="291" rx="20" fill="#fffaf0" stroke="#e6a000" stroke-width="2"/>
+<g transform="translate(62 650)" fill="#e8a000">
+ <ellipse cx="38" cy="12" rx="36" ry="12"/><rect x="2" y="12" width="72" height="72"/>
+ <ellipse cx="38" cy="84" rx="36" ry="12"/><path d="M2 34 Q38 50 74 34 M2 58 Q38 74 74 58" fill="none" stroke="white" stroke-width="4"/>
+</g>
+<text x="181" y="652" class="title">3. CHECK THE DATA AND DESIGN</text>
+<text x="181" y="700" class="body">•  Is the data accurate, relevant, and from</text>
+<text x="211" y="734" class="body">reliable sources?</text>
+<text x="181" y="774" class="body">•  Could the data or model introduce bias?</text>
+<text x="181" y="814" class="body">•  Is the system secure and privacy-respecting?</text>
+<text x="181" y="854" class="body">•  Can people understand how it works?</text>
+<line x1="720" y1="712" x2="905" y2="712" stroke="#111" stroke-width="3"/>
+<text x="737" y="690" class="label" fill="#c51f1f">ISSUES FOUND</text>
+<text x="742" y="754" class="small">Fix the issues in</text><text x="742" y="788" class="small">data or design</text>
+<text x="727" y="822" class="small">before proceeding.</text>
+<line x1="380" y1="886" x2="380" y2="936" stroke="#111" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="408" y="920" class="label" fill="#29923b">OK</text>
+
+<!-- Step 4 -->
+<rect x="25" y="950" width="690" height="204" rx="20" fill="#f6efff" stroke="#8d54cf" stroke-width="2"/>
+<g transform="translate(55 995)" fill="#8d54cf">
+ <circle cx="43" cy="22" r="15"/><circle cx="15" cy="31" r="11"/><circle cx="71" cy="31" r="11"/>
+ <path d="M18 78 Q18 45 43 45 Q68 45 68 78 Z"/><path d="M0 70 Q0 44 18 44 L24 48 Q12 60 13 78 H0Z"/>
+ <path d="M86 70 Q86 44 68 44 L62 48 Q74 60 73 78 H86Z"/>
+</g>
+<text x="165" y="1013" class="title">4. ACCOUNTABILITY</text>
+<text x="165" y="1057" class="body">•  Is there human oversight for important decisions?</text>
+<text x="165" y="1095" class="body">•  Can people challenge or appeal the outcomes?</text>
+<text x="165" y="1133" class="body">•  Who is accountable if something goes wrong?</text>
+<line x1="715" y1="1038" x2="905" y2="1038" stroke="#111" stroke-width="3"/>
+<text x="742" y="1013" class="label" fill="#c51f1f">NO</text>
+<text x="744" y="1078" class="small">Add oversight,</text><text x="733" y="1112" class="small">transparency, and</text>
+<text x="726" y="1146" class="small">clear accountability.</text>
+<line x1="380" y1="1154" x2="380" y2="1204" stroke="#111" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="408" y="1193" class="label" fill="#29923b">YES</text>
+
+<!-- Step 5 -->
+<rect x="25" y="1218" width="690" height="221" rx="20" fill="#eef5ff" stroke="#4d8fd6" stroke-width="2"/>
+<g transform="translate(60 1260)" fill="none" stroke="#2c69b5" stroke-width="8">
+ <circle cx="35" cy="35" r="32"/><line x1="58" y1="58" x2="88" y2="88"/>
+ <path d="M14 43 L27 29 L40 41 L58 20" stroke-width="5"/>
+</g>
+<text x="165" y="1270" class="title">5. TEST, MONITOR, AND REVIEW</text>
+<text x="165" y="1312" class="body">•  Test the system for fairness, safety, and reliability.</text>
+<text x="165" y="1350" class="body">•  Monitor its impact after deployment.</text>
+<text x="165" y="1388" class="body">•  Be ready to update or stop the system if it</text>
+<text x="191" y="1422" class="body">causes harm.</text>
+<line x1="715" y1="1316" x2="905" y2="1316" stroke="#111" stroke-width="3"/>
+<text x="738" y="1262" class="label" fill="#c51f1f">PROBLEMS</text><text x="738" y="1293" class="label" fill="#c51f1f">DETECTED</text>
+<text x="726" y="1360" class="small">Address the problems</text><text x="726" y="1394" class="small">and make necessary</text>
+<text x="726" y="1428" class="small">changes.</text>
+<line x1="380" y1="1439" x2="380" y2="1487" stroke="#111" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="408" y="1477" class="label" fill="#29923b">ALL GOOD</text>
+
+<!-- Step 6 -->
+<rect x="25" y="1495" width="690" height="125" rx="20" fill="#f1faee" stroke="#389746" stroke-width="2"/>
+<circle cx="100" cy="1556" r="42" fill="#389746"/>
+<path d="M78 1555 L94 1572 L125 1537" fill="none" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="207" y="1537" class="title">6. RESPONSIBLE DEPLOYMENT</text>
+<text x="235" y="1575" class="body">Deploy the AI system responsibly.</text>
+<text x="214" y="1607" class="body">Continue to learn, listen, and improve.</text>
+</svg>
